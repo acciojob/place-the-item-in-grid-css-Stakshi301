@@ -4,7 +4,7 @@
 .holder{
 	display:grid;
 	grid-template-columns:repeat(2,100px);
-	grid-row:repeat(2,100px);
+	grid-template-row:repeat(2,100px);
 	/* background-color:red; */
 
 }
